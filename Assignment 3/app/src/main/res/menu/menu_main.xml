@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/it_bmi"
+        android:title= "BMI"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/it_bsa"
+        android:title= "BSA"
+        app:showAsAction="ifRoom"/>
+</menu>
